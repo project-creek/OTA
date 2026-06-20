@@ -1,0 +1,4 @@
+Notes
+========
+- Existing users will get OTA grab a link from ota app and download the update.
+- User build
